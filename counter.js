@@ -1,9 +1,9 @@
-function (counter) {
-  return coounter + 1;
-   console.log(`Count: ${counter}`);
+let a = 7;
+function inc() {
+  a++;
 }
-
-// function (counter) {
-//  return counter + 1;
-//  console.log(`Count: ${counter}`);
-// }
+function dec() {
+   a--;
+}
+inc();
+dec();
