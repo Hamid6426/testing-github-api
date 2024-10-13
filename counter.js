@@ -4,6 +4,6 @@ function (counter) {
 }
 
 // function (counter) {
-//  return coounter + 1;
+//  return counter + 1;
 //  console.log(`Count: ${counter}`);
 // }
